@@ -8,5 +8,3 @@
 - **JavaScript - DOM**
 - **SwiperJS**
 - **ScrollReveal**
-
-### [Link para a Página]( "Beauty Salon - TailwindCSS")
