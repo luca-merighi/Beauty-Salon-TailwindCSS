@@ -3,8 +3,4 @@
 ### [Projeto Original](https://github.com/luca-merighi/NLW6-Together-OriginSix)
 
 ### Site Construído com:
-- **HTML**
-- **TailwindCSS**
-- **JavaScript - DOM**
-- **SwiperJS**
-- **ScrollReveal**
+![HTML - TailwindCSS - JavaScript - SwiperJS - ScrollReveal](./src/img/icons/techs.png "HTML - TailwindCSS - JavaScript - SwiperJS - ScrollReveal")
